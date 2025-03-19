@@ -1,2 +1,2 @@
 # launcher_elemental
-repositório para baixar o launcher do elemental
+Atualizador do jogo , optimizado para usar poucos dados.
